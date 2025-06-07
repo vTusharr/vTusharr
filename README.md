@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=40&pause=1000&center=true&random=false&width=435&lines=Hey+!+I'm+Tushar;Welcome+to+my+profile+!" alt="Typing SVG" /></a>
+</div>
 
-<!--
-**T-H-E-Dark-NeX/T-H-E-Dark-NeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/T-H-E-Dark-NeX/T-H-E-Dark-NeX/cards/github_dark/3-stats.svg" style="max-width: 300px; height: auto;" />
+  <img src="https://raw.githubusercontent.com/T-H-E-Dark-NeX/T-H-E-Dark-NeX/cards/github_dark/2-most-commit-language.svg" style="max-width: 300px; height: auto;" />
+</p>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="c logo"  />
+  <img width="12" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cpp logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/assemblyscript.svg" height="40" alt="assembly logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/fire/fire.png" height="40" alt="mojo logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="sql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-plain.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/freebsd/freebsd-original.svg" height="40" alt="bsd logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/T-H-E-Dark-NeX/T-H-E-Dark-NeX/snake/snake.svg" alt="Snake animation" />
+</div>
+
+###
