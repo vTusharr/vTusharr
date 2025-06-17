@@ -6,9 +6,9 @@
 ### Now you can add this to your markdown
 ```
 
-[![](https://raw.githubusercontent.com/T-H-E-Dark-NeX/T-H-E-Dark-NeX/cards/merko/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/T-H-E-Dark-NeX/T-H-E-Dark-NeX/cards/merko/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/T-H-E-Dark-NeX/T-H-E-Dark-NeX/cards/merko/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/T-H-E-Dark-NeX/T-H-E-Dark-NeX/cards/merko/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/T-H-E-Dark-NeX/T-H-E-Dark-NeX/cards/merko/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vTusharr/vTusharr/cards/merko/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vTusharr/vTusharr/cards/merko/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vTusharr/vTusharr/cards/merko/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vTusharr/vTusharr/cards/merko/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vTusharr/vTusharr/cards/merko/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ```
 
@@ -18,7 +18,7 @@
 ![](./1-repos-per-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/T-H-E-Dark-NeX/T-H-E-Dark-NeX/cards/merko/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/vTusharr/vTusharr/cards/merko/1-repos-per-language.svg)
 ```
 
     
@@ -28,7 +28,7 @@
 ![](./2-most-commit-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/T-H-E-Dark-NeX/T-H-E-Dark-NeX/cards/merko/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/vTusharr/vTusharr/cards/merko/2-most-commit-language.svg)
 ```
 
     
@@ -38,7 +38,7 @@
 ![](./4-productive-time.svg)
 
 ```
-![](https://raw.githubusercontent.com/T-H-E-Dark-NeX/T-H-E-Dark-NeX/cards/merko/4-productive-time.svg)
+![](https://raw.githubusercontent.com/vTusharr/vTusharr/cards/merko/4-productive-time.svg)
 ```
 
     
