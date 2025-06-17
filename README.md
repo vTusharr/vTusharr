@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=T-H-E-Dark-NeX&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vTusharr&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
@@ -42,17 +42,17 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T-H-E-Dark-NeX&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vTusharr&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-H-E-Dark-NeX&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vTusharr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-H-E-Dark-NeX&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vTusharr&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/T-H-E-Dark-NeX/T-H-E-Dark-NeX/snake/snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/vTusharr/vTusharr/snake/snake.svg" alt="Snake Animation" />
 </div>
