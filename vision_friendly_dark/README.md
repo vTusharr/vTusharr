@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/vTusharr/vTusharr/cards/vision_friendly_dark/4-productive-time.svg)
-```
-
-    
