@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/vTusharr/vTusharr/cards/prussian/4-productive-time.svg)
+```
+
+    

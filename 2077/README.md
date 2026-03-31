@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/vTusharr/vTusharr/cards/2077/4-productive-time.svg)
+```
+
+    
