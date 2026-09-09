@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="40" alt="Bash" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" height="40" alt="Zig" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-plain.svg" height="40" alt="Rust" />
   <img width="12" />
   <img src="https://img.shields.io/badge/NASM-Assembly-6D4C41?style=flat&logo=assemblyscript&logoColor=white" height="28" alt="NASM" />
   <img width="12" />
